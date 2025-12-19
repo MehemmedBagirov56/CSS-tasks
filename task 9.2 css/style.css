@@ -83,6 +83,7 @@ li:nth-child(16) {
 li:hover {
     cursor: pointer;
     color: #000000;
-    background-color: #ffffff;
+    background-color: #eef1f2;
     transition: all ease-in .2s;
+
 }
